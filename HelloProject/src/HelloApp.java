@@ -2,7 +2,7 @@
 public class HelloApp {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Sam!\n");
+		System.out.println("Hello Samuel Beaulieu!\n");
 	}
 
 }
